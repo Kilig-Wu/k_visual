@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-egg",
+  "root": true,
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+		"indent": 0, 
+    "eqeqeq": 0, 
+    "semi": 0, 
+    "quotes": 0 
+	}
+}

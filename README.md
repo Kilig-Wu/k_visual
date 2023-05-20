@@ -1,3 +1,17 @@
 # k_visual
- ## Why 
- - 由于在工作中开发可视化图形的时候，遇到了一些无法避免的问题，导致一些图形开发起来很痛苦，因此有了想法开发一款属于自己的前端组件库
+
+## how to start
+```
+cd .\papermaking\
+npm install
+npm run dev
+```
+
+## what we use ?
+vue3 + TypeScript + vite
+https://cn.vuejs.org/guide/quick-start.html
+https://www.typescriptlang.org/
+https://cn.vitejs.dev/
+
+## component library
+https://antdv.com/components/overview

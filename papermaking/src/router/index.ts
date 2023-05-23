@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router"
 import { RouteName } from "./RouteName"
-import HomePageScene from "@/view/homePage/HomePageScene"
+import HomePageScene from "@/views/homePage/HomePageScene"
 import { RoutePath } from "./RoutePath"
 
 const router = createRouter({
